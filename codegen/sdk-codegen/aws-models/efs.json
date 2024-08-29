@@ -4347,6 +4347,12 @@
                     "traits": {
                         "smithy.api#enumValue": "maxIO"
                     }
+                },
+                "ELASTIC": {
+                    "target": "smithy.api#Unit",
+                    "traits": {
+                        "smithy.api#enumValue": "elastic"
+                    }
                 }
             }
         },
